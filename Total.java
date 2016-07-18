@@ -16,6 +16,6 @@ public class Total {
 			System.out.printf("%.04f", sum);
 		} catch (IOException ioe) {
 			System.out.println(ioe.getMessage());
-		}
+		} 
 	}
 }
